@@ -1,0 +1,9 @@
+DROP TABLE Import_Record
+DROP TABLE Has_Product
+DROP TABLE Product
+DROP TABLE Orders
+DROP TABLE Membership
+DROP TABLE Customers
+DROP TABLE Mistake
+DROP TABLE Staff
+DROP TABLE Work_Shift
